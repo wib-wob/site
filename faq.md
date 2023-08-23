@@ -12,7 +12,7 @@ No, but WibWob Reloaded and Puni can coexist on the same device.
 We don't know yet, but probably not.
 ## Will There be events?
 Yes! We will loop old wibwob events and even make custom ones!
-## how does this revival work?
+## How does this revival work?
 We are taking wibwob and turning it offline with epic smali editing and disassembly!
 # Is this like the Puni Translation Project?
 No, this is a full revival of Yo-Kai Watch Wibble Wobble, not a translation for puni (but this project was started by some of the puni translation devs),
