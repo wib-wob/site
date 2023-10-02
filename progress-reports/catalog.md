@@ -1,5 +1,5 @@
 # Progress Reports
-[Go back to home page](https://supertavor.github.io/WibWobReloaded/)
+[Go back to home page](https://wib-wob.github.io/site/)
 
 All our progress reports are one click away!!
 
