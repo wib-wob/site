@@ -1,5 +1,5 @@
 # FaQ
-[Go back to home page](https://supertavor.github.io/WibWobReloaded/)
+[Go back to home page](https://wib-wob.github.io/site/)
 ## What exactly is WibWob Reloaded?
 The original wibwob shut down in 2018, so we took the original game and massively modified it to work without a server.
 ## On what platforms will I be able to play this?
